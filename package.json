@@ -30,7 +30,7 @@
   "dependencies": {
     "colors": "^1.0.3",
     "event-stream": "^3.2.1",
-    "gulp": "^3.9.1",
+    "gulp": "github:gulpjs/gulp#b065a132a68ee8d68e94a5c650169e45468a3a78",
     "nodemon": "^1.10.2"
   },
   "devDependencies": {
